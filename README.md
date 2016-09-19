@@ -1,1 +1,1 @@
-Bootstrap template for properties page!
+Bootstrap template for Builders page!
